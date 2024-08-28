@@ -1,1 +1,1 @@
-Projeto desenvolvido durante um evento ignite lab da rocketseat
+Projeto desenvolvido durante o evento ignite lab da rocketseat
